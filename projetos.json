@@ -2,17 +2,81 @@
     {
         "titulo": "Mini Blog (SPA)",
         "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
-        "imagem": "https://drive.google.com/drive/folders/1-e1cNj93Ib_ye78Xvn4DOnfcJdL9vsFu",
+        "imagem": "https://static.vecteezy.com/ti/fotos-gratis/p3/6671766-fantastica-lua-magica-luz-e-agua-barco-com-arvore-papel-de-parede-gratis-foto.jpg",
+        "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
         "categoria": "react"
     },
     {
-        "titulo": "Mini Blog (SPA)",
+        "titulo": "Mini Blog (SPA) 2",
         "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
-        "imagem": "https://drive.google.com/drive/folders/1-e1cNj93Ib_ye78Xvn4DOnfcJdL9vsFu",
+        "imagem": "https://t.ctcdn.com.br/5XPASDBUosgmBv5Ptpxcd6eTJso=/512x288/smart/filters:format(webp)/i257652.jpeg",
+        "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
         "categoria": "react"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 3",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://s2.glbimg.com/1o2J-rf2G9qtlQlm82gaq-mFBec=/0x129:1024x952/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/7/i/ME2AxRRoygUyFPCDe0jQ/3.png",
+        "alt": "Tenho que pensar",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "react"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 4",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://www.hypeness.com.br/1/2018/12/imagens-surreais.jpg",
+        "alt": "Tenho que pensar",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "bootstrap"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 5",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-criativa-abstrata-com-le%C3%A3o-colorido-cor-preta-de-190846410.jpg",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "html-css-js"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 6",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://img.freepik.com/fotos-gratis/paisagem-de-nevoeiro-matinal-e-montanhas-com-baloes-de-ar-quente-ao-nascer-do-sol_335224-794.jpg",
+        "alt": "Tenho que pensar",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "bootstrap"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 7",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://ichef.bbci.co.uk/news/640/cpsprodpb/100A3/production/_120599656_1-jasonkirk_60x_oaktrichomestomata.jpg",
+        "alt": "Tenho que pensar",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "bootstrap"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 7",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://ichef.bbci.co.uk/news/640/cpsprodpb/100A3/production/_120599656_1-jasonkirk_60x_oaktrichomestomata.jpg",
+        "alt": "Tenho que pensar",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "bootstrap"
+    },
+    {
+        "titulo": "Mini Blog (SPA) 8",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://st4.depositphotos.com/12417518/21035/i/600/depositphotos_210356202-stock-photo-brazil-national-flag-textile-cloth.jpg",
+        "alt":"123",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "html-css-js"
     }
 ]

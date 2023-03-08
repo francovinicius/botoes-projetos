@@ -9,6 +9,10 @@
     opacity: .6;
 }
 
+body {
+    background-color: #01070f;
+}
+
 #particles-js {
     background: #0D1117;
     width: 100%;
