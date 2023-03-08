@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Mini Blog (SPA)",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://drive.google.com/drive/folders/1-e1cNj93Ib_ye78Xvn4DOnfcJdL9vsFu",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "react"
+    },
+    {
+        "titulo": "Mini Blog (SPA)",
+        "resumo": "Projeto utiliza o framework react.js e a biblioteca react-router-dom para criar uma Single Page Aplication.",
+        "imagem": "https://drive.google.com/drive/folders/1-e1cNj93Ib_ye78Xvn4DOnfcJdL9vsFu",
+        "vercel": "https://viniciusduarte-blog.vercel.app/",
+        "repositorio": "https://github.com/francovinicius/blog-react",
+        "categoria": "react"
+    },
+]

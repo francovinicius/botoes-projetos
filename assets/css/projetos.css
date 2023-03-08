@@ -46,3 +46,8 @@
     margin-left: 1rem;
 }
 
+.botoes {
+    margin-top: 2rem;
+    gap: 10px;
+    flex-wrap: wrap;
+}
