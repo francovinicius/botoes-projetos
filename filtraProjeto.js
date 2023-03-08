@@ -1,5 +1,7 @@
 const botoes = document.querySelectorAll(".bttn")
 
+
+
 botoes.forEach(btn => btn.addEventListener('click', filtrarProjetos))
 
 function filtrarProjetos() {
@@ -10,3 +12,5 @@ function filtrarProjetos() {
 
     exibirOsProjetosNaTela(projetosFiltrados)
 }
+
+

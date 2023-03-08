@@ -43,4 +43,3 @@ function exibirOsProjetosNaTela(listaDeProjetos){
         `
     });
 }
-
