@@ -1,0 +1,130 @@
+body {
+
+    color: #FFFFFF;
+}
+
+.foto-mobile {
+
+    display: flex;
+    margin-top: -5.5rem;
+    margin-left: 1rem;
+    width: 15rem;
+    height: 16rem;
+}
+
+
+.p-apresentacao {
+  width: 95%;
+  font-size: 12px;
+  opacity: .6;
+  margin-bottom: 1rem;
+}
+
+.btn-sm {
+    display: flex;
+    margin-top: -1rem;
+    opacity: .6;
+}
+
+.p-apresentacao-txt {
+
+    display: flex;
+    width: 90%;
+    margin-top: -5rem;
+    font-size: 12px;
+    opacity: .6;
+    
+}
+
+.sobre-escondido {
+
+    width: 95%;
+    margin: 3rem 0;
+    
+}
+
+.ler-mais{
+    position: absolute;
+    left:  -100000vw;
+}
+
+.ler-mais-ativo {
+    position: inherit;
+    left: 0;
+}
+
+.btn-ler-mais-inativo {
+    position: absolute;
+    left:  -1000000vw;
+}
+
+.meus-skills{
+margin: 0 0 5rem 1rem;
+width: 70%;
+
+}
+
+.texto {
+  margin-bottom: 2rem;
+}
+
+.skills {
+    grid-area: skills;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  
+  .skills__tittle {
+    font-size: 48px;
+    color: #FFFFFF;
+  }
+  
+  .skills__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  
+  .skills__icon {
+    width: 150px;
+    height: 150px;
+    background-color: #1b1b22;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .skills__icon i {
+    font-size: 3rem;
+  }
+  
+  .skills__icon span {
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+.accordion {
+  width: 90%;
+}
+
+.accordion-button {
+  background-color: #0D1117;
+  color: #ffffff;
+}
+
+.accordion-body {
+  background-color: #1b1b22;
+  color: #ffffffa2;
+}
+
+.titulo-skill {
+  color: #FFFFFF;
+}
+
+.mensagem-skill {
+  margin-top: -.5rem;
+  font-size: 12px;
+}
