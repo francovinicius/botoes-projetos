@@ -6,7 +6,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "react"
+        "categoria": "react",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 2",
@@ -15,7 +16,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "react"
+        "categoria": "react",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 3",
@@ -24,7 +26,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "react"
+        "categoria": "react",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 4",
@@ -33,7 +36,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "bootstrap"
+        "categoria": "bootstrap",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 5",
@@ -41,7 +45,8 @@
         "imagem": "https://thumbs.dreamstime.com/b/ilustra%C3%A7%C3%A3o-criativa-abstrata-com-le%C3%A3o-colorido-cor-preta-de-190846410.jpg",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "html-css-js"
+        "categoria": "html-css-js",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 6",
@@ -50,7 +55,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "bootstrap"
+        "categoria": "bootstrap",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 7",
@@ -59,7 +65,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "bootstrap"
+        "categoria": "bootstrap",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 7",
@@ -68,7 +75,8 @@
         "alt": "Tenho que pensar",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "bootstrap"
+        "categoria": "bootstrap",
+        "mostrar": "1"
     },
     {
         "titulo": "Mini Blog (SPA) 8",
@@ -77,6 +85,7 @@
         "alt":"123",
         "vercel": "https://viniciusduarte-blog.vercel.app/",
         "repositorio": "https://github.com/francovinicius/blog-react",
-        "categoria": "html-css-js"
+        "categoria": "html-css-js",
+        "mostrar": "1"
     }
 ]

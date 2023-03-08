@@ -14,6 +14,7 @@ async function buscarProjetos() {
 
 
 function exibirOsProjetosNaTela(listaDeProjetos){
+    elementoParaInserirProjetos.innerHTML = ''
     listaDeProjetos.forEach(projeto => {
         elementoParaInserirProjetos.innerHTML += `
         <div class="div-cards d-flex justify-content-center">
@@ -24,7 +25,8 @@ function exibirOsProjetosNaTela(listaDeProjetos){
           </a>
           <div class="div-cards card-body card-body-projetos">
             <h5 class="card-title">${projeto.titulo}</h5>
-            <span >${projeto.categoria}</span>
+            <span style="display: none;">${projeto.categoria}</span>
+            <span style="display: none;">${projeto.mostrar}</span>
             <p class="card-text">
               ${projeto.resumo}
             </p>
