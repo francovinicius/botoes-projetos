@@ -20,23 +20,7 @@
         margin-top: .5rem;
     }
     
-    .p-apresentacao-txt {
-        margin-top: -5rem;
-        font-size: 18px;
-        opacity: .6;
-        
-    }
-    
-    .sobre-escondido {
-    
-        width: 95%;
-        margin: 3rem 0;
-        
-    }
 
-    /* fim da section apresentação */
-
-   
   }
 
   @media screen and (min-width:1024px) {
@@ -64,38 +48,9 @@
         margin-top: .5rem;
         font-size: 18px;
     }
-    
-    .p-apresentacao-txt {
-    
-        margin-top: -7rem;
-        font-size: 24px;
-        opacity: .6;
-        
-    }
-    
-    .sobre-escondido {
-    
-        width: 95%;
-        margin: 3rem 0;
-        
-    }
+
 
     /* fim da section apresentação */
-
-    /* section skills */
-
-    .accordion-item img {
-        width: 26px;
-    }
-    .topico-skill {
-        font-size: 22px;
-    }
-    .titulo-skill {
-        font-size: 20px;
-    }
-    .mensagem-skill {
-        font-size: 16px;
-    }
   }
 
   @media screen and (min-width:1024px) {
