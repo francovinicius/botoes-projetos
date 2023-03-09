@@ -16,7 +16,8 @@ Para ver o projeto em ação, [acesse aqui](https://botoes-projetos.vercel.app/)
 
 Faça o download ou clone este repositório para a sua máquina.
 Abra o arquivo index.html em um navegador web.
-Ao carregar a página, os projetos serão mostrados na tela e você poderá utilizar os botões para filtrá-los por categoria.
+Ao carregar a página, os projetos serão mostrados na tela e você poderá utilizar os botões para filtrá-los por categoria.<br><br>
+**Obs.**: A funcionalidade do projeto consiste somente na section Projetos, ou seja, o resto do projeto foi criado somente para completar o cenário.
 <br><br>
 ## Desenvolvimento
 O projeto foi desenvolvido utilizando JavaScript puro, sem a utilização de bibliotecas ou frameworks adicionais. A estrutura HTML e o estilo CSS foram criados com o objetivo de deixar o projeto simples e fácil de entender.
